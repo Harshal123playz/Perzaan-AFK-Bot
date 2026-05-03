@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OriginOutpost.aternos.me",
-    "port": 30251,
+    "ip": "MEADOWCRAFT.aternos.me",
+    "port": 14253,
     "version": "1.21.1"
   },
   "position": {
